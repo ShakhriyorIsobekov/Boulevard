@@ -224,6 +224,7 @@ body{
 }
 
 .box-btn{
+    display: block;
     width: 161px;
     background-color: #151515;
     padding: 7px 0;
