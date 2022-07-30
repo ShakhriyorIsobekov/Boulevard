@@ -127,6 +127,7 @@ body{
     line-height: 26px;
     font-family: 'Montserrat-Regular';
     max-width: 538px;
+    tex-align: center;
 }
 
 .second-content{
@@ -142,6 +143,7 @@ body{
     line-height: 26px;
     font-family: 'Montserrat-Regular';
     max-width: 540px;
+    tex-align: center;
 }
 
 .third-content{
@@ -157,6 +159,7 @@ body{
     font-family: 'Montserrat-Bold';
     text-align: right;
     max-width: 333px;
+    tex-align: center;
 }
 
 .third-img {
